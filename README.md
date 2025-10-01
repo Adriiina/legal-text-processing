@@ -54,6 +54,7 @@ pip install -r requirements.txt
 ```
 
 ## Notes
-- Large files are ignored; consider Git LFS if you need to version corpora.
+- Large files are ignored; consider Git LFS if you need to version 
+corpora.
 - GPU is optional but recommended for Transformers.
 
