@@ -51,7 +51,9 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-Notes
+---
+
+**## Notes**
 
 Large files are ignored; consider Git LFS if you need to version corpora.
 
